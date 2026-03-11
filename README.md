@@ -18,10 +18,21 @@ This prototype was developed to replace manual paper logs with a sleek, automate
 * **State Management:** Kotlin Coroutines & StateFlow
 
 ## 📱 Screenshots
-*(Note: Upload the screenshots from your phone to GitHub and drag them in here!)*
 * [Dashboard View]
+* ![Main dashboard](https://github.com/user-attachments/assets/0e3f3852-3c48-4455-b5b9-bcfc9e973128)
+![Main dashboard2](https://github.com/user-attachments/assets/9fc36353-28c0-4677-bcea-c88c62448f1a)
+
+* [Admin authentication]
+![Admin security panel](https://github.com/user-attachments/assets/a44feaea-4a43-4e04-ad26-067ae394b46f)
+
 * [Messages & Automated Reporting]
-* [Ouch Log]
+* ![Parent communication screen](https://github.com/user-attachments/assets/5be7f122-07bd-40e1-979f-ed2f5b91c64f)
+
+* [Child details]
+![view child status](https://github.com/user-attachments/assets/301bcfac-4f48-4154-94c7-6a0fdfcd5529)
+
+ [Add Child ]
+ ![Register child](https://github.com/user-attachments/assets/bb84d8cf-e7aa-4ae9-afe5-7f4acc5b6679)
 
 ---
 **Developed by Nelson | Naisilicon**
